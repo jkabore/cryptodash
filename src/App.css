@@ -1,0 +1,15 @@
+
+.App{
+  padding: 40px;
+  background-color:#010e2c;
+  color:white;
+  font-family: 'Do Hyeon', sans-serif;
+}
+.appbar{
+  display:grid;
+  grid-template-columns: 180px auto 100px 100px;
+}
+.bttn:active{
+  cursor: pointer;
+  color: blue;
+}
